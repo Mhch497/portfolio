@@ -1,0 +1,31 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-image: linear-gradient(lightblue, white);
+    padding: 15px;
+
+}
+
+header a {
+    text-decoration: none;
+    border: blue 2px solid;
+    padding: 5px;
+    background-color: white;
+}
+
+footer {
+    background-image: linear-gradient(to top, lightblue, white);
+    padding: 15px;
+}
+
+h1 {
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: blue;
+    text-align: center;
+}
+
+.about-list {
+    list-style: square;
+}
